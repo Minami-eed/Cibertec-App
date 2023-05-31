@@ -71,7 +71,7 @@ En esta semana seguimos en la practica de la semana 01 sobre las vistas, pero en
 ![noticias](/public/noticias.jpg)
 
 ## Semana 03
-En esta semana nos centramos en cambiar la perspectiva del como usar los Linear Layout para mostrar un listado. (A continuacion se muetran los tipos de ordenamiento que se enseñaron en clase)
+En esta semana nos centramos en cambiar la perspectiva del como usar los Relative Layout para mostrar un listado. (A continuacion se muestran los tipos de ordenamiento que se enseñaron en clase)
 ```kotlin
              layoutManager = LinearLayoutManager(context)
              layoutManager = LinearLayoutManager(context, LinearLayoutManager.HORIZONTAL, false)
