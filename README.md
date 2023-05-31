@@ -36,7 +36,7 @@ $app
 ├── java
 │    ├── com.cibertec.cibertecapp
 │    │                ├── login
-│    │                │     └── # LoginActivity
+│    │                ├── noticias 
 │    │                └── # MainActivity
 │    │
 │    ├── com.cibertec.cibertecapp (androidTest)   
@@ -46,7 +46,9 @@ $app
 │    ├── drawable
 │    ├── layout
 │    │     ├── # activity_login.xml
-│    │     └── # activity_main.xml
+│    │     ├── # activity_main.xml
+│    │     ├── # activity_noticias.xml
+│    │     └── # item_noticia.xml
 │    │
 │    ├── mipmap
 │    ├── values
