@@ -45,9 +45,11 @@ $app
 ├── res
 │    ├── drawable
 │    ├── layout
+│    │     ├── # activity_libros.xml
 │    │     ├── # activity_login.xml
 │    │     ├── # activity_main.xml
 │    │     ├── # activity_noticias.xml
+│    │     ├── # item_libro.xml
 │    │     └── # item_noticia.xml
 │    │
 │    ├── mipmap
