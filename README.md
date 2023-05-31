@@ -9,7 +9,7 @@ dependencies {
     implementation 'com.google.android.material:material:1.8.0'
 }
 ```
-En la carpeta de Values en el archivo: `colors.xml` se agregaron colores
+En la carpeta Values en el archivo llamado `colors.xml` se agregaron colores
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
