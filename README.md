@@ -9,6 +9,23 @@ dependencies {
     implementation 'com.google.android.material:material:1.8.0'
 }
 ```
+En la carpeta de Values en el archivo: `colors.xml` se agregaron colores
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Teal_Blue">#043c5c</color>
+    <color name="Gothic">#7294a4</color>
+    <color name="Heather">#c6d1d9</color>
+    <color name="astronaut">#245470</color>
+</resources>
+```
 
 ## Estructura del Proyecto
 ```
@@ -45,3 +62,8 @@ Hola a todos, soy Minami y hoy les voy a hablar de un curso que les enseñará c
 La clase se enfocó en la elaboración de una vista llamada Login, que es la pantalla que permite al usuario ingresar sus credenciales para acceder a la aplicación. Para crear esta vista se utilizaron dos elementos principales: el diseño y la programación.
 
 ![login](/public/login.jpg)
+
+## Semana 02 
+En esta semana seguimos en la practica de la semana 01 sobre las vistas, pero en esta ocasion mostramos una lista de noticias y usamos mas las clases que son la parte logica de la aplicación.
+
+![noticias](/public/noticias.jpg)
